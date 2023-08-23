@@ -9,3 +9,4 @@ else {
 	audio_stop_sound(Sound1);
 	audio_play_sound(Ugh,0,true);
 }
+state = Scr_state_idle;
